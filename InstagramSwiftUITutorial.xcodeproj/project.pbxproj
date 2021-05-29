@@ -11,6 +11,26 @@
 		11523B1D2660726D00BB9A25 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B1C2660726D00BB9A25 /* ContentView.swift */; };
 		11523B1F2660726F00BB9A25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11523B1E2660726F00BB9A25 /* Assets.xcassets */; };
 		11523B222660726F00BB9A25 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11523B212660726F00BB9A25 /* Preview Assets.xcassets */; };
+		11523B4A266080AD00BB9A25 /* CustomSecureField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B43266080AC00BB9A25 /* CustomSecureField.swift */; };
+		11523B4B266080AD00BB9A25 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B44266080AD00BB9A25 /* Constants.swift */; };
+		11523B4C266080AD00BB9A25 /* LazyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B45266080AD00BB9A25 /* LazyView.swift */; };
+		11523B4D266080AD00BB9A25 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B46266080AD00BB9A25 /* ImagePicker.swift */; };
+		11523B4E266080AD00BB9A25 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B47266080AD00BB9A25 /* CustomTextField.swift */; };
+		11523B4F266080AD00BB9A25 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B48266080AD00BB9A25 /* Extensions.swift */; };
+		11523B50266080AD00BB9A25 /* TextArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B49266080AD00BB9A25 /* TextArea.swift */; };
+		11523B52266080EC00BB9A25 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B51266080EC00BB9A25 /* MainTabView.swift */; };
+		11523B542660811700BB9A25 /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B532660811700BB9A25 /* FeedView.swift */; };
+		11523B562660814000BB9A25 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B552660814000BB9A25 /* SearchView.swift */; };
+		11523B582660814700BB9A25 /* NotificationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B572660814700BB9A25 /* NotificationsView.swift */; };
+		11523B5A2660815200BB9A25 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B592660815200BB9A25 /* ProfileView.swift */; };
+		11523B5C2660815B00BB9A25 /* UploadPostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B5B2660815B00BB9A25 /* UploadPostView.swift */; };
+		11523B5E2660833D00BB9A25 /* FeedCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B5D2660833D00BB9A25 /* FeedCell.swift */; };
+		11523B602660AF4F00BB9A25 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B5F2660AF4F00BB9A25 /* SearchBar.swift */; };
+		11523B622660B0AD00BB9A25 /* PostGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B612660B0AD00BB9A25 /* PostGrid.swift */; };
+		11523B6426617C2600BB9A25 /* UserCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B6326617C2600BB9A25 /* UserCell.swift */; };
+		11523B6626617C3100BB9A25 /* UserListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B6526617C3100BB9A25 /* UserListView.swift */; };
+		11523B682661804700BB9A25 /* NotificationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B672661804700BB9A25 /* NotificationCell.swift */; };
+		11523B6A266181BE00BB9A25 /* ProfileHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11523B69266181BE00BB9A25 /* ProfileHeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +40,26 @@
 		11523B1E2660726F00BB9A25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11523B212660726F00BB9A25 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		11523B232660726F00BB9A25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11523B43266080AC00BB9A25 /* CustomSecureField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomSecureField.swift; sourceTree = "<group>"; };
+		11523B44266080AD00BB9A25 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		11523B45266080AD00BB9A25 /* LazyView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LazyView.swift; sourceTree = "<group>"; };
+		11523B46266080AD00BB9A25 /* ImagePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		11523B47266080AD00BB9A25 /* CustomTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		11523B48266080AD00BB9A25 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		11523B49266080AD00BB9A25 /* TextArea.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextArea.swift; sourceTree = "<group>"; };
+		11523B51266080EC00BB9A25 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		11523B532660811700BB9A25 /* FeedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedView.swift; sourceTree = "<group>"; };
+		11523B552660814000BB9A25 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		11523B572660814700BB9A25 /* NotificationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsView.swift; sourceTree = "<group>"; };
+		11523B592660815200BB9A25 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		11523B5B2660815B00BB9A25 /* UploadPostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadPostView.swift; sourceTree = "<group>"; };
+		11523B5D2660833D00BB9A25 /* FeedCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedCell.swift; sourceTree = "<group>"; };
+		11523B5F2660AF4F00BB9A25 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
+		11523B612660B0AD00BB9A25 /* PostGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostGrid.swift; sourceTree = "<group>"; };
+		11523B6326617C2600BB9A25 /* UserCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCell.swift; sourceTree = "<group>"; };
+		11523B6526617C3100BB9A25 /* UserListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserListView.swift; sourceTree = "<group>"; };
+		11523B672661804700BB9A25 /* NotificationCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationCell.swift; sourceTree = "<group>"; };
+		11523B69266181BE00BB9A25 /* ProfileHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +92,12 @@
 		11523B192660726D00BB9A25 /* InstagramSwiftUITutorial */ = {
 			isa = PBXGroup;
 			children = (
+				11523B2B26607FB800BB9A25 /* View */,
+				11523B2A26607FB400BB9A25 /* ViewModel */,
+				11523B2926607FAE00BB9A25 /* Model */,
+				11523B2C26607FBE00BB9A25 /* API */,
+				11523B2D26607FC500BB9A25 /* Utils */,
 				11523B1A2660726D00BB9A25 /* InstagramSwiftUITutorialApp.swift */,
-				11523B1C2660726D00BB9A25 /* ContentView.swift */,
 				11523B1E2660726F00BB9A25 /* Assets.xcassets */,
 				11523B232660726F00BB9A25 /* Info.plist */,
 				11523B202660726F00BB9A25 /* Preview Content */,
@@ -67,6 +111,166 @@
 				11523B212660726F00BB9A25 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		11523B2926607FAE00BB9A25 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		11523B2A26607FB400BB9A25 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				11523B422660807700BB9A25 /* Feed */,
+				11523B412660807200BB9A25 /* Notifications */,
+				11523B402660806B00BB9A25 /* Authentication */,
+				11523B3F2660806200BB9A25 /* Profile */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		11523B2B26607FB800BB9A25 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				11523B362660800C00BB9A25 /* Items */,
+				11523B3526607FF800BB9A25 /* Main */,
+				11523B3426607FF200BB9A25 /* Authentication */,
+				11523B3326607FE800BB9A25 /* Notifications */,
+				11523B3226607FE000BB9A25 /* Search */,
+				11523B3126607FDD00BB9A25 /* Comments */,
+				11523B3026607FDB00BB9A25 /* Feed */,
+				11523B2F26607FD900BB9A25 /* Profile */,
+				11523B2E26607FD200BB9A25 /* UploadPost */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		11523B2C26607FBE00BB9A25 /* API */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = API;
+			sourceTree = "<group>";
+		};
+		11523B2D26607FC500BB9A25 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				11523B44266080AD00BB9A25 /* Constants.swift */,
+				11523B43266080AC00BB9A25 /* CustomSecureField.swift */,
+				11523B47266080AD00BB9A25 /* CustomTextField.swift */,
+				11523B48266080AD00BB9A25 /* Extensions.swift */,
+				11523B46266080AD00BB9A25 /* ImagePicker.swift */,
+				11523B45266080AD00BB9A25 /* LazyView.swift */,
+				11523B49266080AD00BB9A25 /* TextArea.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		11523B2E26607FD200BB9A25 /* UploadPost */ = {
+			isa = PBXGroup;
+			children = (
+				11523B5B2660815B00BB9A25 /* UploadPostView.swift */,
+			);
+			path = UploadPost;
+			sourceTree = "<group>";
+		};
+		11523B2F26607FD900BB9A25 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				11523B592660815200BB9A25 /* ProfileView.swift */,
+				11523B69266181BE00BB9A25 /* ProfileHeaderView.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		11523B3026607FDB00BB9A25 /* Feed */ = {
+			isa = PBXGroup;
+			children = (
+				11523B532660811700BB9A25 /* FeedView.swift */,
+				11523B5D2660833D00BB9A25 /* FeedCell.swift */,
+			);
+			path = Feed;
+			sourceTree = "<group>";
+		};
+		11523B3126607FDD00BB9A25 /* Comments */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Comments;
+			sourceTree = "<group>";
+		};
+		11523B3226607FE000BB9A25 /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				11523B552660814000BB9A25 /* SearchView.swift */,
+				11523B5F2660AF4F00BB9A25 /* SearchBar.swift */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
+		11523B3326607FE800BB9A25 /* Notifications */ = {
+			isa = PBXGroup;
+			children = (
+				11523B572660814700BB9A25 /* NotificationsView.swift */,
+				11523B672661804700BB9A25 /* NotificationCell.swift */,
+			);
+			path = Notifications;
+			sourceTree = "<group>";
+		};
+		11523B3426607FF200BB9A25 /* Authentication */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Authentication;
+			sourceTree = "<group>";
+		};
+		11523B3526607FF800BB9A25 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				11523B1C2660726D00BB9A25 /* ContentView.swift */,
+				11523B51266080EC00BB9A25 /* MainTabView.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		11523B362660800C00BB9A25 /* Items */ = {
+			isa = PBXGroup;
+			children = (
+				11523B612660B0AD00BB9A25 /* PostGrid.swift */,
+				11523B6326617C2600BB9A25 /* UserCell.swift */,
+				11523B6526617C3100BB9A25 /* UserListView.swift */,
+			);
+			path = Items;
+			sourceTree = "<group>";
+		};
+		11523B3F2660806200BB9A25 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		11523B402660806B00BB9A25 /* Authentication */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Authentication;
+			sourceTree = "<group>";
+		};
+		11523B412660807200BB9A25 /* Notifications */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Notifications;
+			sourceTree = "<group>";
+		};
+		11523B422660807700BB9A25 /* Feed */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Feed;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,8 +342,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11523B4E266080AD00BB9A25 /* CustomTextField.swift in Sources */,
+				11523B5C2660815B00BB9A25 /* UploadPostView.swift in Sources */,
 				11523B1D2660726D00BB9A25 /* ContentView.swift in Sources */,
+				11523B4A266080AD00BB9A25 /* CustomSecureField.swift in Sources */,
+				11523B4F266080AD00BB9A25 /* Extensions.swift in Sources */,
+				11523B562660814000BB9A25 /* SearchView.swift in Sources */,
+				11523B6426617C2600BB9A25 /* UserCell.swift in Sources */,
 				11523B1B2660726D00BB9A25 /* InstagramSwiftUITutorialApp.swift in Sources */,
+				11523B4D266080AD00BB9A25 /* ImagePicker.swift in Sources */,
+				11523B542660811700BB9A25 /* FeedView.swift in Sources */,
+				11523B622660B0AD00BB9A25 /* PostGrid.swift in Sources */,
+				11523B6626617C3100BB9A25 /* UserListView.swift in Sources */,
+				11523B4C266080AD00BB9A25 /* LazyView.swift in Sources */,
+				11523B6A266181BE00BB9A25 /* ProfileHeaderView.swift in Sources */,
+				11523B682661804700BB9A25 /* NotificationCell.swift in Sources */,
+				11523B50266080AD00BB9A25 /* TextArea.swift in Sources */,
+				11523B582660814700BB9A25 /* NotificationsView.swift in Sources */,
+				11523B4B266080AD00BB9A25 /* Constants.swift in Sources */,
+				11523B5E2660833D00BB9A25 /* FeedCell.swift in Sources */,
+				11523B5A2660815200BB9A25 /* ProfileView.swift in Sources */,
+				11523B602660AF4F00BB9A25 /* SearchBar.swift in Sources */,
+				11523B52266080EC00BB9A25 /* MainTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
